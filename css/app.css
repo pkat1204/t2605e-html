@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    background-size: contain;
+    background-image: url(https://images.template.net/551106/Gradient-Background-edit-online.webp);
+}
+h1{
+    
+}
+p{
+    color: red;
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'Times New Roman', 'Times New Roman', Times, serif;
+    text-align: justify;/*center left right justify*/
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: capitalize;
+    background-color: #ffe4c4;
+}
