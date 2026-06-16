@@ -1,19 +1,26 @@
 body{
-    background-color: aqua;
+    background-color: white;
     background-size: contain;
-    background-image: url(https://images.template.net/551106/Gradient-Background-edit-online.webp);
+    background-image: url(https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/small/background_trang_c43671df89.jpg);
 }
 h1{
-     
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 } 
 p{
-    color: red;
+    color: black;
     font-size: 20px;
     line-height: 1.5;
     font-family: 'Times New Roman', 'Times New Roman', Times, serif;
     text-align: justify;/*center left right justify*/
     font-weight: 400;
     text-decoration: none;
-    text-transform: capitalize;
-    background-color: #ffe4c4;
+    text-transform: none;
+    background-color: white;
+}
+h2{
+    text-decoration: solid;
+    font-weight: 700;
 }
